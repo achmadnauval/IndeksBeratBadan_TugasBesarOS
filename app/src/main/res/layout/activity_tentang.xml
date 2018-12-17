@@ -52,7 +52,7 @@
         android:layout_height="wrap_content"
         android:paddingLeft="20dp"
         android:paddingTop="5dp"
-        android:text="3. Yunita Putri Hapsari - M3116080 - TI D"
+        android:text="3. Yunita Putri Hapsari - M3116080 - TI Dnau"
         android:textColor="#000000"/>
 
 </LinearLayout>
